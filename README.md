@@ -25,8 +25,12 @@ conda activate cpullama
 ```bash
 pip install -r requirements.txt
 ```
+
+### Download the required Model from the link provided
+
 ```ini
-### Dowload the Llama 2 model 
+
+## Dowload the Llama 2 model 
 
 llama-2-7b-chat.ggmlv3.q4_0.bin
 
